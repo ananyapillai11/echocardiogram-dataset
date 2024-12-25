@@ -36,20 +36,6 @@ To run this project, ensure you have the following installed:
 2. Follow the step-by-step instructions provided in the notebook cells to preprocess data, run analyses, and generate visualizations.
 3. Replace the placeholder data with your own echocardiogram dataset for personalized insights.
 
-## Dataset
-This project requires echocardiogram data in a CSV format. The dataset should include measurements such as:
-
--Left ventricular dimensions.
--Wall thickness.
--Ejection fraction.
--Doppler parameters.
--Ensure data is formatted correctly before running the analysis.
-
-## Results
--Plots highlighting key cardiac measurements.
--Statistical summaries and correlations.
--Interactive visualizations for in-depth exploration.
-
 ## Contributions
 Contributions are welcome! If you have suggestions for improvements or additional features, feel free to submit a pull request.
 
